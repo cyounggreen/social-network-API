@@ -1,1 +1,4 @@
-# social-network-API
+# Social-Network-API
+
+Author:
+Cassidy Younggreen
